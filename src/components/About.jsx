@@ -14,7 +14,6 @@ const About = () => {
                 >
                     {/* About Me Column */}
                     <div>
-                        <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-6">About Me</h2>
                         <p className="text-text-secondary text-lg leading-relaxed">
                             {profile.bio}
                         </p>

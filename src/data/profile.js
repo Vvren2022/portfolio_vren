@@ -2,7 +2,7 @@ export const profile = {
   name: "Viren Vaviya",
   title: "AI/ML Engineer | Agentic AI & LLM Specialist",
   tagline: "Engineering production-grade Agentic AI systems and scalable LLM pipelines.",
-  bio: "I bridge the gap between AI research and production reality. Specializing in Agentic AI and MLOps, I design and build autonomous systems that are reliable, scalable, and drive measurable business impact. Currently advancing my expertise with an M.Sc. in High Integrity Systems.",
+  bio: "Highly motivated professional with 1.5 years of hands-on experience in Python, JavaScript, and cloud technologies, supported by strong academic training at the master's level. Skilled in problem solving, SDLC workflows, and Machine Learning principles, Agentic AI, with a focus on writing clean and efficient code. Seeking an opportunity to apply technical strengths in Python development, ML workflows, LLM and related tools, while continuing to expand knowledge and contribute to impactful projects.",
   social: {
     linkedin: "https://www.linkedin.com/in/viren-vaviya-a9933423b/",
     github: "https://github.com/Vvren2022",
