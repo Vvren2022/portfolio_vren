@@ -99,7 +99,7 @@ export const profile = {
       approach: "Developed a hybrid LSTM-Transformer architecture to capture both long-term trends and short-term fluctuations.",
       stack: ["PyTorch", "Pandas", "FastAPI", "Docker"],
       impact: "Outperformed traditional ARIMA models by 15%, providing actionable insights for trading simulations.",
-      link: "https://github.com/Vvren2022/machine-learning"
+      link: "https://github.com/Vvren2022/stoke_price_prediction"
     }
   ]
 };
