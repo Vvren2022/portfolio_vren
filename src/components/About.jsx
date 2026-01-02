@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 const About = () => {
     return (
         <section id="about" className="py-20 bg-background">
-            <div className="container mx-auto px-6 max-w-7xl">
+            <div className="container mx-auto px-6 max-w-full">
                 <motion.div
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
