@@ -79,7 +79,7 @@ export const profile = {
       approach: "Orchestrated a multi-agent system (Planner, Booker, Researcher) using LangGraph to autonomously execute complex workflows.",
       stack: ["LangGraph", "OpenAI GPT-4", "FastAPI", "React"],
       impact: "Delivered a fully autonomous planning assistant that generates bookable itineraries in under 30 seconds.",
-      link: "https://github.com/Vvren2022"
+      link: "https://github.com/Vvren2022/AI_TRIP_PLANNER_LLMOPS"
     },
     {
       title: "SearchXBot",
